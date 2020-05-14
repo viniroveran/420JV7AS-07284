@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="dragon.cs" />
     <Compile Include="ArenaMaster.cs" />
     <Compile Include="Goblin.cs" />
     <Compile Include="Monster.cs" />

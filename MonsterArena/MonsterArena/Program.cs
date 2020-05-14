@@ -13,6 +13,7 @@ namespace MonsterArena
                 new Orc("Bob"),
                 new Goblin("Charlie"),
                 new Orc("David"),
+                new dragon("sixiang"),
                 new Slime("Felix")
             };
 
