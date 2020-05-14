@@ -9,15 +9,12 @@ namespace MonsterArena
         {
             List<Monster> monsters = new List<Monster>()
             {
-                new Goblin("Alice"),
-                new Orc("Bob"),
-                new Goblin("Charlie"),
-                new Orc("David"),
                 new LuckyUnicorn("Lady"),
                 new Dragon("Xiangfeng"),
                 new FirstDragon("sixiang"),
                 new Slime("Felix"),
-                new Ironman("Chenyi")
+                new Ironman("Chenyi"),
+                new Slimoblin("Jack")
             };
 
             foreach (var monster in monsters)
