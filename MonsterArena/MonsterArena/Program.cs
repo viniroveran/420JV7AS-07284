@@ -12,7 +12,8 @@ namespace MonsterArena
                 new Goblin("Alice"),
                 new Orc("Bob"),
                 new Goblin("Charlie"),
-                new Orc("David")
+                new Orc("David"),
+                new Dragon("Xiangfeng")
             };
 
             foreach (var monster in monsters)
