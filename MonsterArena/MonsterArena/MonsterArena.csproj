@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="dragon.cs" />
+    <Compile Include="Dragon.cs" />
     <Compile Include="ArenaMaster.cs" />
     <Compile Include="Goblin.cs" />
     <Compile Include="Ironman.cs" />
