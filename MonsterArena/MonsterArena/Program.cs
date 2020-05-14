@@ -17,7 +17,8 @@ namespace MonsterArena
                 new Dragon("Xiangfeng"),
                 new FirstDragon("sixiang"),
                 new Slime("Felix"),
-                new Ironman("Chenyi")
+                new Ironman("Chenyi"),
+                new Slimoblin("Jack")
             };
 
             foreach (var monster in monsters)
