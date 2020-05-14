@@ -43,6 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ArenaMaster.cs" />
+    <Compile Include="dragon.cs" />
     <Compile Include="Goblin.cs" />
     <Compile Include="Monster.cs" />
     <Compile Include="MonsterData.cs" />
