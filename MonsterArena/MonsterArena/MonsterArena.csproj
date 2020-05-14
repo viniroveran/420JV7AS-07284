@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Dragon.cs" />
     <Compile Include="ArenaMaster.cs" />
+    <Compile Include="FirstDragon.cs" />
     <Compile Include="Goblin.cs" />
     <Compile Include="Ironman.cs" />
     <Compile Include="Monster.cs" />
