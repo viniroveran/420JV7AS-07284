@@ -53,6 +53,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Slime.cs" />
+    <Compile Include="LuckyUnicorn.cs" />
+    <Compile Include="Slimoblin.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
